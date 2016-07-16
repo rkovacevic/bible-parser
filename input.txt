@@ -1,0 +1,4 @@
+Mar 2:44   neki tekst
+Mar 2:45   neki tekst sada
+Mar 3:1   neki tekst bla
+Tar 33:55   U početku bijaše početak.

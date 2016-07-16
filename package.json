@@ -1,0 +1,16 @@
+{
+  "name": "bible-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Kovacevic",
+  "license": "MIT",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "sqlite3": "^3.1.4"
+  }
+}
